@@ -1,0 +1,44 @@
+---
+id: 89628781
+name: Ninjitsu Art of Decoy
+type: Trap Card
+frameType: trap
+desc: Target 1 face-up "Ninja" monster you control; it cannot be destroyed by battle.
+race: Continuous
+archetype: Ninja
+card_sets:
+- set_name: Dark Revelation Volume 3
+  set_code: DR3-EN052
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.98'
+- set_name: Soul of the Duelist
+  set_code: SOD-EN052
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: Soul of the Duelist
+  set_code: SOD-EN052
+  set_rarity: Short Print
+  set_rarity_code: "(SP)"
+  set_price: '1.41'
+- set_name: 'Turbo Pack: Booster Seven'
+  set_code: TU07-EN020
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.38'
+card_images:
+- id: 89628781
+  image_url: https://images.ygoprodeck.com/images/cards/89628781.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/89628781.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/89628781.jpg
+- id: 89628781
+  image_url: https://images.ygoprodeck.com/images/cards/89628781.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/89628781.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/89628781.jpg
+card_prices:
+- cardmarket_price: '0.12'
+  tcgplayer_price: '0.29'
+  ebay_price: '0.99'
+  amazon_price: '1.29'
+  coolstuffinc_price: '0.25'
